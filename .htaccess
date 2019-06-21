@@ -1,0 +1,9 @@
+RewriteEngine On
+
+    Options -Multiviews
+    RewriteEngine On
+    RewriteBase /diamex
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    DirectoryIndex control.php
+    RewriteRule  ^(.*)$  control.php?url=$1&%{QUERY_STRING} [NC,L]
