@@ -3,9 +3,9 @@
     <div class="row padd_top_30 container_prod no-margin">
         <div class="col-xs-12 col-md-12">
             <div class="row prod_cal">
-                <div class="col-md-6 prod_a no-padding bg_grisx">
+                <div class="col-md-8 prod_a no-padding bg_grisx">
                     <div class="row">
-                        <div class="col-md-8 col-md-offset-2 col-xs-12">
+                        <div class="col-md-12  col-xs-12">
                             <div class="main_slider prod_gal">
                                 <div class="main_slider_item">
                                     <img src="img/items/item_prod1.jpg" alt="">
@@ -60,7 +60,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 prod_b">
+                <div class="col-md-4 prod_b">
                     <div class="row">
                         <div class="col-md-12 text-center padd_top_15">
                             <h3 class="no-margin pasos_items"><span >1</span> - <span class="active">2</span> - <span>3</span></h3>
@@ -68,28 +68,33 @@
                         </div>
                     </div>
                     <div class="row mar_top_30">
-                        <div class="col-md-4 col-md-offset-2 col-xs-6">
-                            <div class="direc active">
-                                <h5>Entrega a <br> domicilio</h5>
-                                <ul>
-                                    <li>Entrega con UPS</li>
-                                    <li>Envío asegurado</li>
-                                    <li>Envío gratis</li>
-                                </ul>
-                                <a class="_seta btn btn-block  btn-success " data-toggle="tab" href="#menu1">Selecionar</a>
+                        <div class="row no">
+                            <div class="col-md-10 col-md-offset-1 col-xs-12">
+                                <div class="col-md-6  col-xs-6 pas_a">
+                                    <div class="direc active">
+                                        <h5>Entrega a <br> domicilio</h5>
+                                        <ul>
+                                            <li>Entrega con UPS</li>
+                                            <li>Envío asegurado</li>
+                                            <li>Envío gratis</li>
+                                        </ul>
+                                        <a class="_seta btn btn-block  btn-success " data-toggle="tab" href="#menu1">Selecionar</a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-xs-6 pas_a">
+                                    <div class="direc">
+                                        <h5>Entrega a <br> domicilio</h5>
+                                        <ul>
+                                            <li>Lugar céntrico de la CDMX</li>
+                                            <li>Zona segura</li>
+                                            <li>Entrega personalizada</li>
+                                        </ul>
+                                        <a class="_seta btn btn-block btn-success_out" data-toggle="tab" href="#menu2">Selecionar</a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                        <div class="col-md-4 col-xs-6">
-                            <div class="direc">
-                                <h5>Entrega a <br> domicilio</h5>
-                                <ul>
-                                    <li>Lugar céntrico de la CDMX</li>
-                                    <li>Zona segura</li>
-                                    <li>Entrega personalizada</li>
-                                </ul>
-                                <a class="_seta btn btn-block btn-success_out" data-toggle="tab" href="#menu2">Selecionar</a>
-                            </div>
-                        </div>
+
                     </div>
                     <div class="row mar_top_30 mar_bottom_30">
                         <div class="col-md-10 col-md-offset-1 col-xs-12">

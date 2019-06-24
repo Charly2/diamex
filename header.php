@@ -31,7 +31,7 @@
     <![endif]-->
 </head>
 <body>
-<div class="container-fluid container">
+<div class="container-fluid  <?=$_CONTAINER?'container':''?>  ">
     <!-- box header -->
     <header class="box-header">
 

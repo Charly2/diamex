@@ -50,6 +50,10 @@ switch ($_URL){
     case 'cita_cuatro':
         $_VIEW = $_URL;
         break;
+    case 'blog_item':
+        $_CONTAINER= false;
+        $_VIEW = $_URL;
+        break;
     default:
         $_VIEW = 'index';
         break;

@@ -3,9 +3,9 @@
     <div class="row padd_top_30 container_prod">
         <div class="col-xs-12 col-md-12">
             <div class="row prod_cal">
-                <div class="col-md-6 prod_a no-padding bg_grisx">
+                <div class="col-md-8 prod_a no-padding bg_grisx">
                     <div class="row">
-                        <div class="col-md-8 col-md-offset-2 col-xs-12">
+                        <div class="col-md-12  col-xs-12">
                             <div class="main_slider prod_gal">
                                 <div class="main_slider_item">
                                     <img src="img/items/item_prod1.jpg" alt="">
@@ -48,7 +48,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 prod_b">
+                <div class="col-md-4 prod_b">
                     <div class="row">
                         <div class="col-md-12 text-center padd_top_15">
                             <h3 class="no-margin pasos_items"><span class="active">1</span> - <span>2</span> - <span>3</span></h3>
