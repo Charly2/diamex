@@ -1,9 +1,9 @@
 
 <section class="section_first">
     <div class="row padd_top_30 container_prod no-margin">
-        <div class="col-xs-12 col-md-12">
+        <div class="col-xs-12 col-md-6 col-md-offset-3">
             <div class="row prod_cal">
-                <div class="col-md-8 prod_a no-padding bg_grisx">
+                <div class="col-md-12 prod_a no-padding bg_grisx">
                     <div class="row">
                         <div class="col-md-12 col-xs-12">
                             <div class="main_slider prod_gal">
@@ -59,7 +59,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 prod_b">
+                <div class="col-md-12 prod_b">
                     <div class="row">
                         <div class="col-md-12 text-center padd_top_15">
                             <h3 class="no-margin pasos_items"><span >1</span> - <span >2</span> - <span class="active">3</span></h3>

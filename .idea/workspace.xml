@@ -2,28 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3abab59-00c8-404a-8024-6cb1a3cc66e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/Comment_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blog_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hero_2bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/recent_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vistas/blog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vistas/nosotros.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/control.php" beforeDir="false" afterPath="$PROJECT_DIR$/control.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prepros-6.config" beforeDir="false" afterPath="$PROJECT_DIR$/prepros-6.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vistas/cita_cuatro.php" beforeDir="false" afterPath="$PROJECT_DIR$/vistas/cita_cuatro.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vistas/cita_dos.php" beforeDir="false" afterPath="$PROJECT_DIR$/vistas/cita_dos.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vistas/cita_tres.php" beforeDir="false" afterPath="$PROJECT_DIR$/vistas/cita_tres.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vistas/cita_uno.php" beforeDir="false" afterPath="$PROJECT_DIR$/vistas/cita_uno.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vistas/personaliza_cuatro.php" beforeDir="false" afterPath="$PROJECT_DIR$/vistas/personaliza_cuatro.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vistas/personaliza_dos.php" beforeDir="false" afterPath="$PROJECT_DIR$/vistas/personaliza_dos.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nav_header.php" beforeDir="false" afterPath="$PROJECT_DIR$/nav_header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vistas/personaliza_paso_cuatro.php" beforeDir="false" afterPath="$PROJECT_DIR$/vistas/personaliza_paso_cuatro.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vistas/personaliza_paso_dos.php" beforeDir="false" afterPath="$PROJECT_DIR$/vistas/personaliza_paso_dos.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vistas/personaliza_paso_tres.php" beforeDir="false" afterPath="$PROJECT_DIR$/vistas/personaliza_paso_tres.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vistas/personaliza_paso_uno.php" beforeDir="false" afterPath="$PROJECT_DIR$/vistas/personaliza_paso_uno.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vistas/personaliza_tres.php" beforeDir="false" afterPath="$PROJECT_DIR$/vistas/personaliza_tres.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vistas/personaliza_uno.php" beforeDir="false" afterPath="$PROJECT_DIR$/vistas/personaliza_uno.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,73 +24,197 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.scss">
+        <entry file="file://$PROJECT_DIR$/vistas/404.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="2294" selection-start-line="2294" selection-end-line="2294" />
+            <state relative-caret-position="105">
+              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vistas/cita_cuatro.php">
+        <entry file="file://$PROJECT_DIR$/vistas/tyc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vistas/cita_dos.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="29" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="33" column="54" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nav_header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layaut.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vistas/personaliza_dos.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+            <state relative-caret-position="966">
+              <caret line="46" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vistas/blog.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vistas/blog_item.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="148" column="44" lean-forward="true" selection-start-line="148" selection-start-column="44" selection-end-line="148" selection-end-column="44" />
+            <state relative-caret-position="150">
+              <caret line="114" column="20" selection-start-line="114" selection-start-column="20" selection-end-line="141" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vistas/fac.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+              <folding>
+                <element signature="e#679#685#0#HTML" expanded="true" />
+                <element signature="e#685#691#0#HTML" expanded="true" />
+                <element signature="e#1855#1861#0#HTML" expanded="true" />
+                <element signature="e#1861#1867#0#HTML" expanded="true" />
+                <element signature="e#2697#2735#0#HTML" expanded="true" />
+                <element signature="e#3134#3140#0#HTML" expanded="true" />
+                <element signature="e#3140#3146#0#HTML" expanded="true" />
+                <element signature="e#4293#4299#0#HTML" expanded="true" />
+                <element signature="e#4299#4305#0#HTML" expanded="true" />
+                <element signature="e#5568#5574#0#HTML" expanded="true" />
+                <element signature="e#5574#5580#0#HTML" expanded="true" />
+                <element signature="e#7022#7028#0#HTML" expanded="true" />
+                <element signature="e#7028#7034#0#HTML" expanded="true" />
+                <element signature="e#7886#7924#0#HTML" expanded="true" />
+                <element signature="e#8292#8298#0#HTML" expanded="true" />
+                <element signature="e#8298#8304#0#HTML" expanded="true" />
+                <element signature="e#10527#10533#0#HTML" expanded="true" />
+                <element signature="e#10533#10539#0#HTML" expanded="true" />
+                <element signature="e#11848#11854#0#HTML" expanded="true" />
+                <element signature="e#11854#11860#0#HTML" expanded="true" />
+                <element signature="e#12791#12829#0#HTML" expanded="true" />
+                <element signature="e#13201#13207#0#HTML" expanded="true" />
+                <element signature="e#13207#13213#0#HTML" expanded="true" />
+                <element signature="e#14424#14430#0#HTML" expanded="true" />
+                <element signature="e#14430#14436#0#HTML" expanded="true" />
+                <element signature="e#15795#15801#0#HTML" expanded="true" />
+                <element signature="e#15801#15807#0#HTML" expanded="true" />
+                <element signature="e#17009#17047#0#HTML" expanded="true" />
+                <element signature="e#17429#17435#0#HTML" expanded="true" />
+                <element signature="e#17435#17441#0#HTML" expanded="true" />
+                <element signature="e#18524#18530#0#HTML" expanded="true" />
+                <element signature="e#18530#18536#0#HTML" expanded="true" />
+                <element signature="e#19687#19693#0#HTML" expanded="true" />
+                <element signature="e#19693#19699#0#HTML" expanded="true" />
+                <element signature="e#20771#20777#0#HTML" expanded="true" />
+                <element signature="e#20777#20783#0#HTML" expanded="true" />
+                <element signature="e#22504#22510#0#HTML" expanded="true" />
+                <element signature="e#22510#22516#0#HTML" expanded="true" />
+                <element signature="e#22546#22552#0#HTML" expanded="true" />
+                <element signature="e#22552#22558#0#HTML" expanded="true" />
+                <element signature="e#22558#22564#0#HTML" expanded="true" />
+                <element signature="e#22564#22570#0#HTML" expanded="true" />
+                <element signature="e#23965#23971#0#HTML" expanded="true" />
+                <element signature="e#23971#23977#0#HTML" expanded="true" />
+                <element signature="e#25270#25276#0#HTML" expanded="true" />
+                <element signature="e#25276#25282#0#HTML" expanded="true" />
+                <element signature="e#26259#26265#0#HTML" expanded="true" />
+                <element signature="e#26265#26271#0#HTML" expanded="true" />
+                <element signature="e#27317#27355#0#HTML" expanded="true" />
+                <element signature="e#27710#27716#0#HTML" expanded="true" />
+                <element signature="e#27716#27722#0#HTML" expanded="true" />
+                <element signature="e#28915#28921#0#HTML" expanded="true" />
+                <element signature="e#28921#28927#0#HTML" expanded="true" />
+                <element signature="e#29939#29945#0#HTML" expanded="true" />
+                <element signature="e#29945#29951#0#HTML" expanded="true" />
+                <element signature="e#31060#31066#0#HTML" expanded="true" />
+                <element signature="e#31066#31072#0#HTML" expanded="true" />
+                <element signature="e#32433#32439#0#HTML" expanded="true" />
+                <element signature="e#32439#32445#0#HTML" expanded="true" />
+                <element signature="e#33844#33850#0#HTML" expanded="true" />
+                <element signature="e#33850#33856#0#HTML" expanded="true" />
+                <element signature="e#34944#34950#0#HTML" expanded="true" />
+                <element signature="e#34950#34956#0#HTML" expanded="true" />
+                <element signature="e#36098#36104#0#HTML" expanded="true" />
+                <element signature="e#36104#36110#0#HTML" expanded="true" />
+                <element signature="e#37591#37597#0#HTML" expanded="true" />
+                <element signature="e#37597#37603#0#HTML" expanded="true" />
+                <element signature="e#37895#37915#0#HTML" expanded="true" />
+                <element signature="e#38758#38764#0#HTML" expanded="true" />
+                <element signature="e#38764#38770#0#HTML" expanded="true" />
+                <element signature="e#39550#39588#0#HTML" expanded="true" />
+                <element signature="e#39957#39963#0#HTML" expanded="true" />
+                <element signature="e#39963#39969#0#HTML" expanded="true" />
+                <element signature="e#41474#41480#0#HTML" expanded="true" />
+                <element signature="e#41480#41486#0#HTML" expanded="true" />
+                <element signature="e#43479#43485#0#HTML" expanded="true" />
+                <element signature="e#43485#43491#0#HTML" expanded="true" />
+                <element signature="e#44615#44621#0#HTML" expanded="true" />
+                <element signature="e#44621#44627#0#HTML" expanded="true" />
+                <element signature="e#45816#45822#0#HTML" expanded="true" />
+                <element signature="e#45822#45828#0#HTML" expanded="true" />
+                <element signature="e#46989#46995#0#HTML" expanded="true" />
+                <element signature="e#46995#47001#0#HTML" expanded="true" />
+                <element signature="e#48219#48225#0#HTML" expanded="true" />
+                <element signature="e#48225#48231#0#HTML" expanded="true" />
+                <element signature="e#49877#49883#0#HTML" expanded="true" />
+                <element signature="e#49883#49889#0#HTML" expanded="true" />
+                <element signature="e#50999#51005#0#HTML" expanded="true" />
+                <element signature="e#51005#51011#0#HTML" expanded="true" />
+                <element signature="e#52366#52372#0#HTML" expanded="true" />
+                <element signature="e#52372#52378#0#HTML" expanded="true" />
+                <element signature="e#53423#53429#0#HTML" expanded="true" />
+                <element signature="e#53429#53435#0#HTML" expanded="true" />
+                <element signature="e#54719#54725#0#HTML" expanded="true" />
+                <element signature="e#54725#54731#0#HTML" expanded="true" />
+                <element signature="e#55408#55446#0#HTML" expanded="true" />
+                <element signature="e#55814#55820#0#HTML" expanded="true" />
+                <element signature="e#55820#55826#0#HTML" expanded="true" />
+                <element signature="e#57316#57322#0#HTML" expanded="true" />
+                <element signature="e#57322#57328#0#HTML" expanded="true" />
+                <element signature="e#58773#58779#0#HTML" expanded="true" />
+                <element signature="e#58779#58785#0#HTML" expanded="true" />
+                <element signature="e#59501#59539#0#HTML" expanded="true" />
+                <element signature="e#59906#59912#0#HTML" expanded="true" />
+                <element signature="e#59912#59918#0#HTML" expanded="true" />
+                <element signature="e#61660#61666#0#HTML" expanded="true" />
+                <element signature="e#61666#61672#0#HTML" expanded="true" />
+                <element signature="e#63382#63388#0#HTML" expanded="true" />
+                <element signature="e#63388#63394#0#HTML" expanded="true" />
+                <element signature="e#64894#64900#0#HTML" expanded="true" />
+                <element signature="e#64900#64906#0#HTML" expanded="true" />
+                <element signature="e#65864#65902#0#HTML" expanded="true" />
+                <element signature="e#66270#66276#0#HTML" expanded="true" />
+                <element signature="e#66276#66282#0#HTML" expanded="true" />
+                <element signature="e#67607#67613#0#HTML" expanded="true" />
+                <element signature="e#67613#67619#0#HTML" expanded="true" />
+                <element signature="e#68999#69005#0#HTML" expanded="true" />
+                <element signature="e#69005#69011#0#HTML" expanded="true" />
+                <element signature="e#70390#70396#0#HTML" expanded="true" />
+                <element signature="e#70396#70402#0#HTML" expanded="true" />
+                <element signature="e#70968#70974#0#HTML" expanded="true" />
+                <element signature="e#71579#71585#0#HTML" expanded="true" />
+                <element signature="e#71585#71591#0#HTML" expanded="true" />
+                <element signature="e#73287#73293#0#HTML" expanded="true" />
+                <element signature="e#73293#73299#0#HTML" expanded="true" />
+                <element signature="e#74260#74266#0#HTML" expanded="true" />
+                <element signature="e#74266#74272#0#HTML" expanded="true" />
+                <element signature="e#75215#75221#0#HTML" expanded="true" />
+                <element signature="e#75221#75227#0#HTML" expanded="true" />
+                <element signature="e#76207#76213#0#HTML" expanded="true" />
+                <element signature="e#76213#76219#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vistas/nosotros.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vistas/contacto.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -108,21 +222,45 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/control.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="53" column="19" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="19" />
+            <state relative-caret-position="402">
+              <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/custom.js">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/nav_header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="774">
+              <caret line="2365" column="5" selection-start-line="2365" selection-start-column="1" selection-end-line="2365" selection-end-column="5" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>ex2_slider</find>
+      <find>cont_bange</find>
+      <find>flex_b</find>
+      <find>success:hover</find>
+      <find>.btn-success.f</find>
+      <find>.btn-success</find>
+      <find>.btn-success_out</find>
+      <find>succes</find>
+      <find>_seta</find>
+      <find>container_prod</find>
+      <find>input,se</find>
       <find>direc</find>
       <find>.direc &gt; h5</find>
       <find>main_caa</find>
@@ -141,18 +279,7 @@
       <find>continuar</find>
       <find>continuar com</find>
       <find>.prod_gal .slick-slide img</find>
-      <find>.bange_item</find>
-      <find>col-md-4 col-md-offset-2 col-xs-6</find>
-      <find>col-md-8 col-md-offset-2 col-xs-12</find>
-      <find>.direc.pago</find>
-      <find>.item_horario</find>
-      <find>sea</find>
       <find>blog-text</find>
-      <find>sear</find>
-      <find>post_categories</find>
-      <find>.post_categories h4, .recent_post h4</find>
-      <find>blog_video</find>
-      <find>Tags</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -161,7 +288,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/nav_header.php" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/fotter.php" />
@@ -171,24 +297,30 @@
         <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/index_nav.html" />
         <option value="$PROJECT_DIR$/vistas/catalogo.php" />
-        <option value="$PROJECT_DIR$/vistas/index.php" />
-        <option value="$PROJECT_DIR$/vistas/producto_detalle.php" />
-        <option value="$PROJECT_DIR$/vistas/personaliza_paso_uno.php" />
-        <option value="$PROJECT_DIR$/vistas/personaliza_paso_dos.php" />
-        <option value="$PROJECT_DIR$/vistas/personaliza_paso_tres.php" />
-        <option value="$PROJECT_DIR$/vistas/personaliza_paso_cuatro.php" />
         <option value="$PROJECT_DIR$/vistas/personaliza_uno.php" />
         <option value="$PROJECT_DIR$/vistas/personaliza_dos.php" />
         <option value="$PROJECT_DIR$/vistas/personaliza_tres.php" />
         <option value="$PROJECT_DIR$/vistas/personaliza_cuatro.php" />
+        <option value="$PROJECT_DIR$/vistas/index.php" />
         <option value="$PROJECT_DIR$/vistas/cita_uno.php" />
         <option value="$PROJECT_DIR$/vistas/cita_dos.php" />
         <option value="$PROJECT_DIR$/vistas/cita_tres.php" />
         <option value="$PROJECT_DIR$/vistas/cita_cuatro.php" />
-        <option value="$PROJECT_DIR$/control.php" />
+        <option value="$PROJECT_DIR$/vistas/producto_detalle.php" />
         <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/vistas/personaliza_paso_uno.php" />
+        <option value="$PROJECT_DIR$/vistas/personaliza_paso_dos.php" />
+        <option value="$PROJECT_DIR$/vistas/personaliza_paso_tres.php" />
+        <option value="$PROJECT_DIR$/vistas/personaliza_paso_cuatro.php" />
+        <option value="$PROJECT_DIR$/nav_header.php" />
+        <option value="$PROJECT_DIR$/vistas/404.php" />
+        <option value="$PROJECT_DIR$/vistas/contacto.php" />
+        <option value="$PROJECT_DIR$/vistas/nosotros.php" />
+        <option value="$PROJECT_DIR$/vistas/tyc.php" />
+        <option value="$PROJECT_DIR$/vistas/fac.php" />
+        <option value="$PROJECT_DIR$/control.php" />
         <option value="$PROJECT_DIR$/css/style.scss" />
-        <option value="$PROJECT_DIR$/vistas/blog_item.php" />
+        <option value="$PROJECT_DIR$/vistas/blog.php" />
       </list>
     </option>
   </component>
@@ -196,11 +328,12 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="450" />
+    <option name="x" value="-142" />
     <option name="y" value="-8" />
-    <option name="width" value="983" />
-    <option name="height" value="530" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -221,17 +354,6 @@
             <path>
               <item name="diamex" type="b2602c69:ProjectViewProjectNode" />
               <item name="diamex" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="style.scss" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="diamex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diamex" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="diamex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="diamex" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -248,7 +370,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tmcc/suite2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -263,7 +385,6 @@
       <recent name="C:\xampp\htdocs\diamex\img\items" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\diamex\img" />
       <recent name="C:\xampp\htdocs\diamex\vistas" />
       <recent name="C:\xampp\htdocs\diamex\img\items" />
       <recent name="C:\xampp\htdocs\diamex" />
@@ -297,18 +418,18 @@
       <workItem from="1560954781463" duration="6816000" />
       <workItem from="1560981448091" duration="2643000" />
       <workItem from="1561046658156" duration="13859000" />
-      <workItem from="1561319481301" duration="9350000" />
+      <workItem from="1561387353071" duration="8298000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95249000" />
+    <option name="totallyTimeSpent" value="94197000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994641" visible="true" weight="0.17643923" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994641" visible="true" weight="0.26332623" />
       <window_info id="Structure" order="1" sideWeight="0.5005359" side_tool="true" weight="0.25266525" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -329,7 +450,7 @@
       <window_info anchor="right" id="Database" order="3" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994641" visible="true" weight="0.17643923" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994641" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" sideWeight="0.5005359" side_tool="true" weight="0.25266525" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -354,6 +475,20 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fotter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vistas/personaliza_paso1.php" />
     <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -398,161 +533,328 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vistas/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1190">
+        <state relative-caret-position="1470">
           <caret line="70" column="41" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vistas/producto_detalle.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="52" lean-forward="true" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vistas/personaliza_paso_uno.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vistas/personaliza_paso_dos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="70" column="24" lean-forward="true" selection-start-line="70" selection-start-column="24" selection-end-line="71" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vistas/personaliza_paso_tres.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="78" column="49" selection-start-line="78" selection-start-column="49" selection-end-line="78" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vistas/personaliza_paso_cuatro.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="101" column="26" lean-forward="true" selection-start-line="101" selection-start-column="26" selection-end-line="101" selection-end-column="26" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vistas/personaliza_uno.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vistas/personaliza_tres.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="33" column="42" lean-forward="true" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vistas/personaliza_cuatro.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vistas/cita_uno.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="68" selection-start-line="28" selection-start-column="68" selection-end-line="28" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28343" selection-start-column="28343" selection-end-column="28343" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vistas/cita_tres.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fotter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vistas/cita_cuatro.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/control.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="53" column="19" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nav_header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="33" column="54" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vistas/cita_dos.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="29" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="29" />
+        <state relative-caret-position="1176">
+          <caret line="56" column="55" selection-start-line="56" selection-start-column="31" selection-end-line="56" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/cita_tres.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="52" column="56" selection-start-line="52" selection-start-column="56" selection-end-line="52" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/cita_cuatro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/producto_detalle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vistas/personaliza_dos.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        <state relative-caret-position="1785">
+          <caret line="85" column="61" selection-start-line="85" selection-start-column="61" selection-end-line="85" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/personaliza_tres.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1239">
+          <caret line="59" column="63" selection-start-line="59" selection-start-column="63" selection-end-line="59" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/personaliza_cuatro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/layaut.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="105">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.scss">
+    <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="2294" selection-start-line="2294" selection-end-line="2294" />
+        <state relative-caret-position="759">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/personaliza_paso_dos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="54" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/personaliza_paso_tres.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="120" column="14" lean-forward="true" selection-start-line="120" selection-start-column="14" selection-end-line="120" selection-end-column="14" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/personaliza_paso_cuatro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="3" column="54" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/cita_uno.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="866">
+          <caret line="98" column="54" selection-start-line="98" selection-start-column="31" selection-end-line="98" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/personaliza_paso_uno.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/personaliza_uno.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="46" column="10" lean-forward="true" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/contacto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/nosotros.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/fac.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+          <folding>
+            <element signature="e#679#685#0#HTML" expanded="true" />
+            <element signature="e#685#691#0#HTML" expanded="true" />
+            <element signature="e#1855#1861#0#HTML" expanded="true" />
+            <element signature="e#1861#1867#0#HTML" expanded="true" />
+            <element signature="e#2697#2735#0#HTML" expanded="true" />
+            <element signature="e#3134#3140#0#HTML" expanded="true" />
+            <element signature="e#3140#3146#0#HTML" expanded="true" />
+            <element signature="e#4293#4299#0#HTML" expanded="true" />
+            <element signature="e#4299#4305#0#HTML" expanded="true" />
+            <element signature="e#5568#5574#0#HTML" expanded="true" />
+            <element signature="e#5574#5580#0#HTML" expanded="true" />
+            <element signature="e#7022#7028#0#HTML" expanded="true" />
+            <element signature="e#7028#7034#0#HTML" expanded="true" />
+            <element signature="e#7886#7924#0#HTML" expanded="true" />
+            <element signature="e#8292#8298#0#HTML" expanded="true" />
+            <element signature="e#8298#8304#0#HTML" expanded="true" />
+            <element signature="e#10527#10533#0#HTML" expanded="true" />
+            <element signature="e#10533#10539#0#HTML" expanded="true" />
+            <element signature="e#11848#11854#0#HTML" expanded="true" />
+            <element signature="e#11854#11860#0#HTML" expanded="true" />
+            <element signature="e#12791#12829#0#HTML" expanded="true" />
+            <element signature="e#13201#13207#0#HTML" expanded="true" />
+            <element signature="e#13207#13213#0#HTML" expanded="true" />
+            <element signature="e#14424#14430#0#HTML" expanded="true" />
+            <element signature="e#14430#14436#0#HTML" expanded="true" />
+            <element signature="e#15795#15801#0#HTML" expanded="true" />
+            <element signature="e#15801#15807#0#HTML" expanded="true" />
+            <element signature="e#17009#17047#0#HTML" expanded="true" />
+            <element signature="e#17429#17435#0#HTML" expanded="true" />
+            <element signature="e#17435#17441#0#HTML" expanded="true" />
+            <element signature="e#18524#18530#0#HTML" expanded="true" />
+            <element signature="e#18530#18536#0#HTML" expanded="true" />
+            <element signature="e#19687#19693#0#HTML" expanded="true" />
+            <element signature="e#19693#19699#0#HTML" expanded="true" />
+            <element signature="e#20771#20777#0#HTML" expanded="true" />
+            <element signature="e#20777#20783#0#HTML" expanded="true" />
+            <element signature="e#22504#22510#0#HTML" expanded="true" />
+            <element signature="e#22510#22516#0#HTML" expanded="true" />
+            <element signature="e#22546#22552#0#HTML" expanded="true" />
+            <element signature="e#22552#22558#0#HTML" expanded="true" />
+            <element signature="e#22558#22564#0#HTML" expanded="true" />
+            <element signature="e#22564#22570#0#HTML" expanded="true" />
+            <element signature="e#23965#23971#0#HTML" expanded="true" />
+            <element signature="e#23971#23977#0#HTML" expanded="true" />
+            <element signature="e#25270#25276#0#HTML" expanded="true" />
+            <element signature="e#25276#25282#0#HTML" expanded="true" />
+            <element signature="e#26259#26265#0#HTML" expanded="true" />
+            <element signature="e#26265#26271#0#HTML" expanded="true" />
+            <element signature="e#27317#27355#0#HTML" expanded="true" />
+            <element signature="e#27710#27716#0#HTML" expanded="true" />
+            <element signature="e#27716#27722#0#HTML" expanded="true" />
+            <element signature="e#28915#28921#0#HTML" expanded="true" />
+            <element signature="e#28921#28927#0#HTML" expanded="true" />
+            <element signature="e#29939#29945#0#HTML" expanded="true" />
+            <element signature="e#29945#29951#0#HTML" expanded="true" />
+            <element signature="e#31060#31066#0#HTML" expanded="true" />
+            <element signature="e#31066#31072#0#HTML" expanded="true" />
+            <element signature="e#32433#32439#0#HTML" expanded="true" />
+            <element signature="e#32439#32445#0#HTML" expanded="true" />
+            <element signature="e#33844#33850#0#HTML" expanded="true" />
+            <element signature="e#33850#33856#0#HTML" expanded="true" />
+            <element signature="e#34944#34950#0#HTML" expanded="true" />
+            <element signature="e#34950#34956#0#HTML" expanded="true" />
+            <element signature="e#36098#36104#0#HTML" expanded="true" />
+            <element signature="e#36104#36110#0#HTML" expanded="true" />
+            <element signature="e#37591#37597#0#HTML" expanded="true" />
+            <element signature="e#37597#37603#0#HTML" expanded="true" />
+            <element signature="e#37895#37915#0#HTML" expanded="true" />
+            <element signature="e#38758#38764#0#HTML" expanded="true" />
+            <element signature="e#38764#38770#0#HTML" expanded="true" />
+            <element signature="e#39550#39588#0#HTML" expanded="true" />
+            <element signature="e#39957#39963#0#HTML" expanded="true" />
+            <element signature="e#39963#39969#0#HTML" expanded="true" />
+            <element signature="e#41474#41480#0#HTML" expanded="true" />
+            <element signature="e#41480#41486#0#HTML" expanded="true" />
+            <element signature="e#43479#43485#0#HTML" expanded="true" />
+            <element signature="e#43485#43491#0#HTML" expanded="true" />
+            <element signature="e#44615#44621#0#HTML" expanded="true" />
+            <element signature="e#44621#44627#0#HTML" expanded="true" />
+            <element signature="e#45816#45822#0#HTML" expanded="true" />
+            <element signature="e#45822#45828#0#HTML" expanded="true" />
+            <element signature="e#46989#46995#0#HTML" expanded="true" />
+            <element signature="e#46995#47001#0#HTML" expanded="true" />
+            <element signature="e#48219#48225#0#HTML" expanded="true" />
+            <element signature="e#48225#48231#0#HTML" expanded="true" />
+            <element signature="e#49877#49883#0#HTML" expanded="true" />
+            <element signature="e#49883#49889#0#HTML" expanded="true" />
+            <element signature="e#50999#51005#0#HTML" expanded="true" />
+            <element signature="e#51005#51011#0#HTML" expanded="true" />
+            <element signature="e#52366#52372#0#HTML" expanded="true" />
+            <element signature="e#52372#52378#0#HTML" expanded="true" />
+            <element signature="e#53423#53429#0#HTML" expanded="true" />
+            <element signature="e#53429#53435#0#HTML" expanded="true" />
+            <element signature="e#54719#54725#0#HTML" expanded="true" />
+            <element signature="e#54725#54731#0#HTML" expanded="true" />
+            <element signature="e#55408#55446#0#HTML" expanded="true" />
+            <element signature="e#55814#55820#0#HTML" expanded="true" />
+            <element signature="e#55820#55826#0#HTML" expanded="true" />
+            <element signature="e#57316#57322#0#HTML" expanded="true" />
+            <element signature="e#57322#57328#0#HTML" expanded="true" />
+            <element signature="e#58773#58779#0#HTML" expanded="true" />
+            <element signature="e#58779#58785#0#HTML" expanded="true" />
+            <element signature="e#59501#59539#0#HTML" expanded="true" />
+            <element signature="e#59906#59912#0#HTML" expanded="true" />
+            <element signature="e#59912#59918#0#HTML" expanded="true" />
+            <element signature="e#61660#61666#0#HTML" expanded="true" />
+            <element signature="e#61666#61672#0#HTML" expanded="true" />
+            <element signature="e#63382#63388#0#HTML" expanded="true" />
+            <element signature="e#63388#63394#0#HTML" expanded="true" />
+            <element signature="e#64894#64900#0#HTML" expanded="true" />
+            <element signature="e#64900#64906#0#HTML" expanded="true" />
+            <element signature="e#65864#65902#0#HTML" expanded="true" />
+            <element signature="e#66270#66276#0#HTML" expanded="true" />
+            <element signature="e#66276#66282#0#HTML" expanded="true" />
+            <element signature="e#67607#67613#0#HTML" expanded="true" />
+            <element signature="e#67613#67619#0#HTML" expanded="true" />
+            <element signature="e#68999#69005#0#HTML" expanded="true" />
+            <element signature="e#69005#69011#0#HTML" expanded="true" />
+            <element signature="e#70390#70396#0#HTML" expanded="true" />
+            <element signature="e#70396#70402#0#HTML" expanded="true" />
+            <element signature="e#70968#70974#0#HTML" expanded="true" />
+            <element signature="e#71579#71585#0#HTML" expanded="true" />
+            <element signature="e#71585#71591#0#HTML" expanded="true" />
+            <element signature="e#73287#73293#0#HTML" expanded="true" />
+            <element signature="e#73293#73299#0#HTML" expanded="true" />
+            <element signature="e#74260#74266#0#HTML" expanded="true" />
+            <element signature="e#74266#74272#0#HTML" expanded="true" />
+            <element signature="e#75215#75221#0#HTML" expanded="true" />
+            <element signature="e#75221#75227#0#HTML" expanded="true" />
+            <element signature="e#76207#76213#0#HTML" expanded="true" />
+            <element signature="e#76213#76219#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/control.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nav_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/tyc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="46" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vistas/blog_item.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="148" column="44" lean-forward="true" selection-start-line="148" selection-start-column="44" selection-end-line="148" selection-end-column="44" />
+        <state relative-caret-position="150">
+          <caret line="114" column="20" selection-start-line="114" selection-start-column="20" selection-end-line="141" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="2365" column="5" selection-start-line="2365" selection-start-column="1" selection-end-line="2365" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistas/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>

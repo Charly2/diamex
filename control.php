@@ -50,12 +50,27 @@ switch ($_URL){
     case 'cita_cuatro':
         $_VIEW = $_URL;
         break;
+    case 'contacto':
+        $_VIEW = $_URL;
+        break;
+    case 'tyc':
+        $_VIEW = $_URL;
+        break;
+    case 'nosotros':
+        $_VIEW = $_URL;
+        break;
+    case 'fac':
+        $_VIEW = $_URL;
+        break;
+    case 'blog':
+        $_VIEW = $_URL;
+        break;
     case 'blog_item':
         $_CONTAINER= false;
         $_VIEW = $_URL;
         break;
     default:
-        $_VIEW = 'index';
+        $_VIEW = '404';
         break;
 }
 
